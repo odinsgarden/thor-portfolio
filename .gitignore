@@ -1,0 +1,13 @@
+# Keep repo public-safe
+*.tar.gz
+*.zip
+*.so
+*.dll
+*.whl
+*.log
+*.pcap
+*.gexf
+*.csv
+*.json
+venv/
+__pycache__/
