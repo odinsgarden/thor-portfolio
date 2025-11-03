@@ -1,0 +1,4 @@
+[
+  {"id":1,"from":"alice@example.com","subject":"Invoice","body":"Please see attached invoice."},
+  {"id":2,"from":"bob@example.org","subject":"Meeting","body":"Let's schedule a meeting next week."}
+]
