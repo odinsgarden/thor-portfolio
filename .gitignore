@@ -12,3 +12,10 @@
 venv/
 __pycache__/
 .env
+.env
+.cache/
+.cache/pip/
+.ssh/
+.gnupg/
+secrets-to-remove.txt
+work-showcase*
